@@ -1,0 +1,261 @@
+.background,
+.telaChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 320px;
+  height: 654px;
+}
+.telaChild {
+  background-color: var(--color-dodgerblue);
+}
+.proximo {
+  position: absolute;
+  top: 16px;
+  left: 31px;
+  line-height: 125%;
+}
+.ctaButton {
+  position: absolute;
+  top: 479px;
+  left: 89px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 143px;
+  height: 55px;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+}
+.hmmESobre {
+  position: absolute;
+  top: 16px;
+  left: 43px;
+  line-height: 125%;
+}
+.ctaButton1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 320px;
+  height: 55px;
+  font-size: var(--font-size-lg);
+}
+.essasInformaesSo {
+  font-weight: 600;
+}
+.essasInformaesSoContainer {
+  position: absolute;
+  top: 65px;
+  left: calc(50% - 150px);
+  line-height: 150%;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 301px;
+}
+.modeloChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 320px;
+  height: 60px;
+}
+.digiteOModelo {
+  position: absolute;
+  top: 7px;
+  left: calc(50% - 145px);
+  line-height: 150%;
+  font-weight: 800;
+  display: inline-block;
+  width: 290px;
+}
+.modelo {
+  position: absolute;
+  top: 215px;
+  left: 0;
+  width: 320px;
+  height: 60px;
+  font-size: 15px;
+}
+.modeloItem {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 320px;
+  height: 44px;
+}
+.aro,
+.modelo1,
+.modeloItem {
+  position: absolute;
+}
+.aro {
+  top: 10px;
+  left: calc(50% - 145px);
+  line-height: 150%;
+  font-weight: 800;
+  display: inline-block;
+  width: 290px;
+}
+.modelo1 {
+  top: 284px;
+  left: 0;
+  width: 320px;
+  height: 44px;
+}
+.modelo2 {
+  position: absolute;
+  top: 331px;
+}
+.modelo2,
+.modelo3,
+.modelo4 {
+  left: 0;
+  width: 320px;
+  height: 44px;
+}
+.modelo3 {
+  position: absolute;
+  top: 378px;
+}
+.modelo4 {
+  top: 425px;
+}
+.modelo4,
+.sim,
+.tipoChild {
+  position: absolute;
+}
+.tipoChild {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 320px;
+  height: 84px;
+}
+.sim {
+  top: 8px;
+  left: 30px;
+  line-height: 125%;
+}
+.ctaButton2 {
+  position: absolute;
+  top: 42px;
+  left: 48px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 89px;
+  height: 34px;
+}
+.suaBikePossui {
+  top: 8px;
+  left: calc(50% - 145px);
+  font-size: var(--font-size-base);
+  line-height: 150%;
+  font-weight: 800;
+  color: var(--color-dodgerblue);
+  text-align: center;
+  display: inline-block;
+  width: 290px;
+}
+.ctaButton3,
+.no,
+.suaBikePossui {
+  position: absolute;
+}
+.no {
+  top: 8px;
+  left: 29px;
+  line-height: 125%;
+}
+.ctaButton3 {
+  top: 42px;
+  left: 188px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 89px;
+  height: 34px;
+  color: red;
+}
+.formulario2,
+.headerChild,
+.tipo {
+  position: absolute;
+  left: 0;
+  width: 320px;
+}
+.tipo {
+  top: 123px;
+  height: 84px;
+  font-size: var(--font-size-sm);
+  color: var(--color-mediumseagreen);
+}
+.formulario2,
+.headerChild {
+  top: 64px;
+  height: 534px;
+}
+.headerChild {
+  top: 0;
+  background-color: var(--color-dodgerblue);
+  height: 64px;
+}
+.bikecheck {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  line-height: 150%;
+}
+.menuIcon {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.bikecheckParent {
+  position: absolute;
+  top: 14px;
+  left: 24px;
+  width: 176px;
+  height: 36px;
+}
+.header,
+.telaParent {
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+.header {
+  left: -1px;
+  height: 64px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.telaParent {
+  left: 0;
+  height: 654px;
+}
+.div {
+  position: relative;
+  width: 100%;
+  height: 654px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dodgerblue);
+  font-family: var(--font-montserrat);
+}
