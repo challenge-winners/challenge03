@@ -1,0 +1,277 @@
+.background {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 320px;
+  height: 654px;
+}
+.background,
+.child,
+.proximo {
+  position: absolute;
+}
+.child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-dodgerblue);
+  width: 320px;
+  height: 654px;
+}
+.proximo {
+  top: 16px;
+  left: 31px;
+  line-height: 125%;
+}
+.ctaButton {
+  position: absolute;
+  top: 479px;
+  left: 89px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 143px;
+  height: 55px;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+}
+.meConteSobre {
+  position: absolute;
+  top: 16px;
+  left: 43px;
+  line-height: 125%;
+}
+.ctaButton1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 320px;
+  height: 55px;
+  font-size: var(--font-size-lg);
+}
+.essasInformaesSo {
+  font-weight: 600;
+}
+.essasInformaesSoContainer {
+  position: absolute;
+  top: 65px;
+  left: calc(50% - 150px);
+  line-height: 150%;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 301px;
+}
+.modeloChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 320px;
+  height: 44px;
+}
+.span {
+  font-size: var(--font-size-xl);
+}
+.modelo1 {
+  top: 7px;
+  left: calc(50% - 145px);
+  line-height: 150%;
+  font-weight: 800;
+  display: inline-block;
+  width: 290px;
+}
+.cor,
+.modelo,
+.modelo1 {
+  position: absolute;
+}
+.modelo {
+  top: 211px;
+  left: 0;
+  width: 320px;
+  height: 44px;
+}
+.cor {
+  top: 10px;
+  left: calc(50% - 145px);
+  line-height: 150%;
+  font-weight: 800;
+  display: inline-block;
+  width: 290px;
+}
+.modelo2,
+.modelo3,
+.modelo4,
+.modelo5 {
+  position: absolute;
+  top: 259px;
+  left: 0;
+  width: 320px;
+  height: 44px;
+}
+.modelo3,
+.modelo4,
+.modelo5 {
+  top: 307px;
+}
+.modelo4,
+.modelo5 {
+  top: 355px;
+}
+.modelo5 {
+  top: 403px;
+}
+.tipoChild {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 320px;
+  height: 84px;
+}
+.tipo1,
+.tipoChild,
+.urbana {
+  position: absolute;
+}
+.tipo1 {
+  top: -30px;
+  left: calc(50% - 45.5px);
+  line-height: 150%;
+  font-weight: 800;
+  display: inline-block;
+  width: 290px;
+}
+.urbana {
+  top: 8px;
+  left: 17px;
+  font-size: var(--font-size-sm);
+  line-height: 125%;
+  text-align: left;
+}
+.ctaButton2,
+.esporte {
+  position: absolute;
+  left: 16px;
+}
+.ctaButton2 {
+  top: 38px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 89px;
+  height: 34px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+}
+.esporte {
+  top: 8px;
+  line-height: 125%;
+}
+.ctaButton3 {
+  position: absolute;
+  top: 38px;
+  left: 116px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 89px;
+  height: 34px;
+}
+.eletrica {
+  position: absolute;
+  top: 8px;
+  left: 17px;
+  line-height: 125%;
+}
+.ctaButton4 {
+  position: absolute;
+  top: 38px;
+  left: 216px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 89px;
+  height: 34px;
+}
+.tipo {
+  position: absolute;
+  top: 123px;
+  left: 0;
+  width: 320px;
+  height: 84px;
+  font-size: var(--font-size-sm);
+}
+.issoFicaNo {
+  position: absolute;
+  top: 358px;
+  left: calc(50% - 150px);
+  font-size: 8px;
+  line-height: 150%;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  display: inline-block;
+  width: 158px;
+  height: 14px;
+}
+.formulario1,
+.headerChild {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  width: 320px;
+  height: 534px;
+}
+.headerChild {
+  top: 0;
+  background-color: var(--color-dodgerblue);
+  height: 64px;
+}
+.bikecheck {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  line-height: 150%;
+}
+.menuIcon {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.bikecheckParent,
+.header {
+  position: absolute;
+  top: 14px;
+  left: 24px;
+  width: 176px;
+  height: 36px;
+}
+.header {
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 64px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.div {
+  position: relative;
+  width: 100%;
+  height: 654px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dodgerblue);
+  font-family: var(--font-montserrat);
+}
