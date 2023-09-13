@@ -1,0 +1,225 @@
+.groupIcon,
+.groupIcon1 {
+  position: absolute;
+  height: 8.39%;
+  width: 17.17%;
+  top: 90.53%;
+  right: 29.7%;
+  bottom: 1.08%;
+  left: 53.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupIcon1 {
+  height: 3.93%;
+  width: 11.44%;
+  top: 92.76%;
+  right: 32.82%;
+  bottom: 3.31%;
+  left: 55.74%;
+}
+.background,
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 320px;
+  height: 654px;
+}
+.frameChild {
+  background-color: var(--color-dodgerblue);
+}
+.groupIcon2,
+.groupIcon3 {
+  position: absolute;
+  height: 10.78%;
+  width: 22.97%;
+  top: 81.23%;
+  right: 9.69%;
+  bottom: 7.99%;
+  left: 67.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupIcon3 {
+  height: 5.26%;
+  width: 8.6%;
+  top: 83.65%;
+  right: 16.87%;
+  bottom: 11.09%;
+  left: 74.53%;
+}
+.groupIcon10,
+.groupIcon4,
+.groupIcon5,
+.groupIcon6,
+.groupIcon7,
+.groupIcon8,
+.groupIcon9 {
+  position: absolute;
+  height: 8.19%;
+  width: 16.76%;
+  top: 80.96%;
+  right: 73.24%;
+  bottom: 10.85%;
+  left: 10%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupIcon10,
+.groupIcon5,
+.groupIcon6,
+.groupIcon7,
+.groupIcon8,
+.groupIcon9 {
+  height: 4.55%;
+  width: 10.76%;
+  top: 82.88%;
+  right: 75.7%;
+  bottom: 12.57%;
+  left: 13.54%;
+}
+.groupIcon10,
+.groupIcon6,
+.groupIcon7,
+.groupIcon8,
+.groupIcon9 {
+  height: 4.77%;
+  width: 9.76%;
+  top: 73.32%;
+  right: 73.63%;
+  bottom: 21.91%;
+  left: 16.61%;
+}
+.groupIcon10,
+.groupIcon7,
+.groupIcon8,
+.groupIcon9 {
+  height: 16.13%;
+  width: 33%;
+  top: 70.69%;
+  right: 28.13%;
+  bottom: 13.18%;
+  left: 38.87%;
+}
+.groupIcon10,
+.groupIcon8,
+.groupIcon9 {
+  height: 6.81%;
+  width: 22.84%;
+  top: 75.22%;
+  right: 33.45%;
+  bottom: 17.96%;
+  left: 43.7%;
+}
+.groupIcon10,
+.groupIcon9 {
+  height: 3.67%;
+  width: 7.51%;
+  top: 69.27%;
+  right: 25.86%;
+  bottom: 27.06%;
+  left: 66.63%;
+}
+.groupIcon10 {
+  height: 26.58%;
+  width: 33.95%;
+  top: 73.27%;
+  right: 42.57%;
+  bottom: 0.15%;
+  left: 23.48%;
+}
+.oQue {
+  position: absolute;
+  top: 118px;
+  left: calc(50% - 103px);
+  line-height: 150%;
+  font-weight: 600;
+}
+.oDesafioAtual {
+  position: absolute;
+  top: 151px;
+  left: calc(50% - 119px);
+  font-size: var(--font-size-base);
+  line-height: 125%;
+  display: inline-block;
+  width: 238px;
+}
+.bikecheck,
+.frameItem {
+  position: absolute;
+  top: 0;
+}
+.frameItem {
+  left: 0;
+  background-color: var(--color-dodgerblue);
+  width: 320px;
+  height: 64px;
+}
+.bikecheck {
+  left: 40px;
+  line-height: 150%;
+}
+.menuIcon {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.bikecheckParent {
+  position: absolute;
+  top: 14px;
+  left: 24px;
+  width: 176px;
+  height: 36px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+}
+.verifique {
+  position: absolute;
+  top: 9px;
+  left: 15px;
+  line-height: 125%;
+}
+.check {
+  position: absolute;
+  top: 64px;
+  left: 109px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 102px;
+  height: 41px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-dodgerblue);
+}
+.backgroundParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 654px;
+}
+.div {
+  position: relative;
+  width: 100%;
+  height: 654px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
