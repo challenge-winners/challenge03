@@ -1,0 +1,163 @@
+.background {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 320px;
+  height: 654px;
+}
+.background,
+.child,
+.proximo {
+  position: absolute;
+}
+.child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-dodgerblue);
+  width: 320px;
+  height: 654px;
+}
+.proximo {
+  top: 16px;
+  left: 31px;
+  line-height: 125%;
+}
+.ctaButton {
+  position: absolute;
+  top: 521px;
+  left: 89px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 143px;
+  height: 55px;
+  cursor: pointer;
+  text-align: left;
+  color: var(--color-dodgerblue);
+}
+.confirmeSuaIdentidade {
+  position: absolute;
+  top: 16px;
+  left: 43px;
+  line-height: 125%;
+}
+.ctaButton1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 320px;
+  height: 55px;
+  text-align: left;
+  color: var(--color-dodgerblue);
+}
+.agoraPrecisamosQue,
+.tireUmaFoto {
+  position: absolute;
+  line-height: 150%;
+}
+.agoraPrecisamosQue {
+  top: 65px;
+  left: calc(50% - 116px);
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.tireUmaFoto {
+  top: 89px;
+  left: calc(50% - 145px);
+  font-weight: 800;
+  display: inline-block;
+  width: 290px;
+}
+.span,
+.tireUmaFoto {
+  font-size: var(--font-size-xl);
+}
+.eviteReflexosEContainer {
+  position: absolute;
+  top: 149px;
+  left: calc(50% - 140px);
+  line-height: 150%;
+  font-weight: 800;
+  display: inline-block;
+  width: 281px;
+  font-size: var(--font-size-base);
+}
+.ctaButton2 {
+  position: absolute;
+  top: 217px;
+  left: 51px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-silver);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 219px;
+  height: 292px;
+}
+.vistoria {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  width: 320px;
+  height: 576px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.rgExemplo1 {
+  position: absolute;
+  top: 281px;
+  left: 55px;
+  width: 213px;
+  height: 292px;
+  object-fit: cover;
+}
+.headerChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dodgerblue);
+  width: 320px;
+  height: 64px;
+}
+.bikecheck {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  line-height: 150%;
+}
+.menuIcon {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.bikecheckParent,
+.header {
+  position: absolute;
+  top: 14px;
+  left: 24px;
+  width: 176px;
+  height: 36px;
+}
+.header {
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 64px;
+}
+.div {
+  position: relative;
+  width: 100%;
+  height: 654px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
